@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://apmsetting.ai">🌐 Site officiel</a> •
   <a href="https://demo.apmsetting.ai">🚀 Voir la demo</a> •
-  <a href="#features">⚡ Fonctionnalités</a>
+  <a href="https://wa.me/33756893755">📞 Nous contacter</a>
 </p>
 
 ---
