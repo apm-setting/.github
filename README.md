@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://apmsetting.ai/logo.png" alt="APM Setting Logo" width="140"/>
+  <img src="https://github.com/apm-setting/apm-setting/blob/main/logo.svg" alt="APM Setting Logo" width="600"/>
 </p>
-
-<h1 align="center">APM Setting</h1>
 
 <p align="center">
   <b>Le seul setter IA qui transforme ton trafic en rendez-vous qualifiés automatiquement.</b><br/>
@@ -11,7 +9,7 @@
 
 <p align="center">
   <a href="https://apmsetting.ai">🌐 Site officiel</a> •
-  <a href="#demo">🚀 Tester</a> •
+  <a href="https://demo.apmsetting.ai">🚀 Voir la demo</a> •
   <a href="#features">⚡ Fonctionnalités</a>
 </p>
 
