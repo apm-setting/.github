@@ -72,14 +72,11 @@ Contrairement à un setter humain :
 
 ## 🧩 Intégrations
 
-- HubSpot
-- Notion
-- Google Calendar
-- Stripe
-- Zapier
-- OpenAI
-- Make
-- APIs custom
+- Instagram
+- Calendly
+- iClosed
+- Google
+- Webhooks custom
 
 ---
 
