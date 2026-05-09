@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/apm-setting/apm-setting/blob/main/logo.svg" alt="APM Setting Logo" width="600"/>
+  <img src="https://github.com/apm-setting/apm-setting/blob/main/logo.svg" alt="APM Setting Logo" width="450"/>
 </p>
 
 <p align="center">
